@@ -1,1 +1,2 @@
 # Customer-Churn-Analysis
+This project focuses on predicting customer churn in the telecommunications sector for Company Zela. Using machine learning models like RandomForestClassifier and LogisticRegression, we analyzed customer data to identify key factors driving churn. The models were trained and tested to predict churn, with performance evaluated through accuracy, confusion matrix, and classification report metrics. These insights aim to help the company develop targeted strategies for improving customer retention and maintaining a competitive edge in the market.
